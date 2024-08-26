@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'package:i_am_rich/lab2/my_card.dart';
 void main() {
   runApp(
     MaterialApp(
@@ -19,5 +19,6 @@ void main() {
         ), // AppBar
       ), // Scaffold
     ), // Material App
+
   );
 }
