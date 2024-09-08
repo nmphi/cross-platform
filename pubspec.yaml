@@ -22,6 +22,8 @@ flutter:
   assets:
     - images/diamond.jpg
     - images/lab2/profile.jpg
+    - images/lab3/
+    - images/lab4/
 
 fonts:
   - family: Pacifico
