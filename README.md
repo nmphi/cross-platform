@@ -1,4 +1,4 @@
-# i_am_rich
+# Cross-platform Lab
 
 A new Flutter project.
 
