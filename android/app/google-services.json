@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354588479055",
+    "project_id": "lab6-be4ac",
+    "storage_bucket": "lab6-be4ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354588479055:android:407679160578892ddca43a",
+        "android_client_info": {
+          "package_name": "com.example.i_am_rich"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj43bT41JoBkq55F2TMW4sTUoZxPevyEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
